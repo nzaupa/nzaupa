@@ -1,8 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on Power Converter and soon on Neural Networks
-- 🤔 I’m looking for what to do after my PhD
-
+- 🤔 I’m looking for the future
 <!--
 **nzaupa/nzaupa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
