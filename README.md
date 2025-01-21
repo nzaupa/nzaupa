@@ -1,8 +1,9 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on Power Converter and soon on Neural Networks
-- 🤔 I’m looking for the future
+- 👨‍🎓 I completed my Ph.D. in Automatic Control
+- 🔭 I’m looking forward to start working on Neural Networks
 <!--
+- 🤔 I’m looking for the future
 **nzaupa/nzaupa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
